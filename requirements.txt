@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+httpx
+mcp
+python-dotenv
+sse-starlette
+jinja2
+python-multipart
